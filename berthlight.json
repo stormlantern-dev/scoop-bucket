@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.1.0/berthlight_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.2.0/berthlight_0.2.0_windows_amd64.zip",
             "bin": [
                 "berthlight.exe"
             ],
-            "hash": "74098aba2be46f8f867264aa2b180153045e272d8b1da48e58f087f839c9a2d3"
+            "hash": "ad543a2d75076d51e6873566049fb843ad594c7d73d5d959328437cb801523fd"
         },
         "arm64": {
-            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.1.0/berthlight_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.2.0/berthlight_0.2.0_windows_arm64.zip",
             "bin": [
                 "berthlight.exe"
             ],
-            "hash": "eda7834e1ca254ac1adbab968f6dbe2fee2379876e18384fe0bb81ce4f420f47"
+            "hash": "1e6a8a9574ba2c77aa7a2154a09942c26fd7a4c8377c21343daf43ee36446155"
         }
     },
     "homepage": "https://github.com/stormlantern-dev/berthlight",
