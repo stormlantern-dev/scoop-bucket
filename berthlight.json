@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.1.0/berthlight_0.1.0_windows_amd64.zip",
+            "bin": [
+                "berthlight.exe"
+            ],
+            "hash": "74098aba2be46f8f867264aa2b180153045e272d8b1da48e58f087f839c9a2d3"
+        },
+        "arm64": {
+            "url": "https://github.com/stormlantern-dev/berthlight/releases/download/v0.1.0/berthlight_0.1.0_windows_arm64.zip",
+            "bin": [
+                "berthlight.exe"
+            ],
+            "hash": "eda7834e1ca254ac1adbab968f6dbe2fee2379876e18384fe0bb81ce4f420f47"
+        }
+    },
+    "homepage": "https://github.com/stormlantern-dev/berthlight",
+    "license": "Apache-2.0",
+    "description": "Stable names for devcontainer dev servers, without published ports."
+}
